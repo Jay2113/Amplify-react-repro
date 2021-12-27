@@ -63,6 +63,7 @@
     "styled-components": "^5.3.3",
     "typewriter-effect": "^2.18.0",
     "underscore": "^1.13.1",
+    "web-vitals": "^2.1.2",
     "webrtc-adapter": "^8.1.0"
   },
   "scripts": {
